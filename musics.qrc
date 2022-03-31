@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/music"/>
+    <qresource prefix="/">
+        <file>../Downloads/33630629/预览图_千图网_编号33630629.png</file>
+    </qresource>
+</RCC>

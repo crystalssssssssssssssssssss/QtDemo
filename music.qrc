@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/music">
+        <file>q.png</file>
+        <file>search.png</file>
+        <file>touxiang.png</file>
+        <file>shezhi.png</file>
+        <file>voice.png</file>
+        <file>notice.png</file>
+        <file>file.png</file>
+        <file>bluetooth.png</file>
+        <file>cart.png</file>
+        <file>cloud.png</file>
+        <file>favorite.png</file>
+        <file>filter.png</file>
+        <file>folder.png</file>
+        <file>message.png</file>
+        <file>music.png</file>
+        <file>next.png</file>
+        <file>pause.png</file>
+        <file>power.png</file>
+        <file>previous.png</file>
+        <file>repeat.png</file>
+        <file>save.png</file>
+        <file>settings.png</file>
+        <file>shuffle.png</file>
+        <file>stop.png</file>
+        <file>qq.jpeg</file>
+        <file>tiger.jpeg</file>
+    </qresource>
+</RCC>

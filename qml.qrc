@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HeadView.ui.qml</file>
+        <file>LeftView.ui.qml</file>
+        <file>TabBarView.qml</file>
+        <file>TabButtonItem.qml</file>
+        <file>MusicColumnItem.qml</file>
+        <file>TailView.ui.qml</file>
+        <file>MainView.ui.qml</file>
+        <file>MusicItem.ui.qml</file>
+    </qresource>
+</RCC>
