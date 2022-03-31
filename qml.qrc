@@ -9,5 +9,6 @@
         <file>TailView.ui.qml</file>
         <file>MainView.ui.qml</file>
         <file>MusicItem.ui.qml</file>
+        <file>TestGit.qml</file>
     </qresource>
 </RCC>
